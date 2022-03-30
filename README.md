@@ -5,24 +5,6 @@ A simple API that gets information from different news websites, such as: The Gu
   - [Prerequisites](#prerequisites)
   - [Install](#install)
 - [Development](#development)
-  - [Local Dev Server](#local-dev-server)
-  - [Prod Build](#prod-build)
-- [Code Quality Analysis](#code-quality-analysis)
-- [Testing](#testing)
-  - [Unit Tests](#unit-tests)
-  - [End to End Tests](#end-to-end-tests)
-  - [Browser Testing](#browser-testing)
-- [Generating Technical Documentation](#generating-technical-documentation)
-  - [Documentation Reports](#documentation-reports)
-- [Continuous Integration](#continuous-integration)
-- [Deployments](#deployments)
-  - [Deploying a new base Nginx image](#deploying-a-new-base-nginx-image)
-- [Environment Variables](#environment-variables)
-- [Contributing](#contributing)
-- [Release Notes](#release-notes)
-- [Commits](#commits)
-- [Extra](#extra)
-
 
 ## Getting Started
 
@@ -37,7 +19,8 @@ You will need to install the following:
 ## Install
 
 The following instructions will download the base app from our GIT repository and install it locally.
-- install the project dependencies with npm
+- install the project dependencies with the following npm command:
+- ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 - npm install
 
 ## Development
