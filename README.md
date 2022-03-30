@@ -22,3 +22,12 @@ A simple API that gets information from different news websites, such as: The Gu
 - [Release Notes](#release-notes)
 - [Commits](#commits)
 - [Extra](#extra)
+
+
+## Getting Started
+
+Follow the guide below to get started.
+
+### Prerequisites
+
+You will need to install the following:
