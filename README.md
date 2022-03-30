@@ -25,4 +25,4 @@ The following instructions will download the base app from our GIT repository an
 ## Development
 To launch the application on port 8000, use the following npm command:
 - npm run start
-Please make sure 'port 8000' is not being used.
+- Please make sure 'port 8000' is not being used.
