@@ -1,17 +1,19 @@
 {
   "name": "climate-change-api",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A simple API that gets information from different news websites, such as: The Guardian / The Times.",
+  "main": "src/main/app/index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon src/main/app/index.js"
   },
   "author": "Artur Szabo",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.26.1",
     "cheerio": "^1.0.0-rc.10",
-    "express": "^4.17.3",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
     "nodemon": "^2.0.15"
   }
 }
