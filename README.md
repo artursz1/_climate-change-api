@@ -20,7 +20,6 @@ You will need to install the following:
 
 The following instructions will download the base app from our GIT repository and install it locally.
 - install the project dependencies with the following npm command:
-- ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 - npm install
 
 ## Development
