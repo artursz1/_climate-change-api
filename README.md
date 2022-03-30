@@ -31,3 +31,5 @@ Follow the guide below to get started.
 ### Prerequisites
 
 You will need to install the following:
+Node 12.16.0+: [https://nodejs.org/en/](https://nodejs.org/en/)
+- NPM 6.9.0+: [https://docs.npmjs.com/getting-started/installing-node](https://docs.npmjs.com/getting-started/installing-node)
